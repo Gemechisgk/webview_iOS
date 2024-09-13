@@ -24,6 +24,8 @@ class SecondPageState extends State<second_page>{
     super.initState();
   }
 
+  
+
   @override
   Widget build(BuildContext context) {
     if(widget.internetConnected){
