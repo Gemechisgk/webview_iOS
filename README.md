@@ -1,4 +1,4 @@
-# myapp
+# Flutter Web View for iOS and Android
 
 A new Flutter project.
 
